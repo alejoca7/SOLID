@@ -1,0 +1,15 @@
+C:\Users\D3iic\OneDrive - Universidad Mariano Gálvez\2023\0223 Sexto y Octavo Semestre\ANÁLISIS DE SISTEMAS II\Git\solid\PRINCIPIO1\bin\Debug\net7.0\PRINCIPIO1.exe
+C:\Users\D3iic\OneDrive - Universidad Mariano Gálvez\2023\0223 Sexto y Octavo Semestre\ANÁLISIS DE SISTEMAS II\Git\solid\PRINCIPIO1\bin\Debug\net7.0\PRINCIPIO1.deps.json
+C:\Users\D3iic\OneDrive - Universidad Mariano Gálvez\2023\0223 Sexto y Octavo Semestre\ANÁLISIS DE SISTEMAS II\Git\solid\PRINCIPIO1\bin\Debug\net7.0\PRINCIPIO1.runtimeconfig.json
+C:\Users\D3iic\OneDrive - Universidad Mariano Gálvez\2023\0223 Sexto y Octavo Semestre\ANÁLISIS DE SISTEMAS II\Git\solid\PRINCIPIO1\bin\Debug\net7.0\PRINCIPIO1.dll
+C:\Users\D3iic\OneDrive - Universidad Mariano Gálvez\2023\0223 Sexto y Octavo Semestre\ANÁLISIS DE SISTEMAS II\Git\solid\PRINCIPIO1\bin\Debug\net7.0\PRINCIPIO1.pdb
+C:\Users\D3iic\OneDrive - Universidad Mariano Gálvez\2023\0223 Sexto y Octavo Semestre\ANÁLISIS DE SISTEMAS II\Git\solid\PRINCIPIO1\obj\Debug\net7.0\PRINCIPIO1.csproj.AssemblyReference.cache
+C:\Users\D3iic\OneDrive - Universidad Mariano Gálvez\2023\0223 Sexto y Octavo Semestre\ANÁLISIS DE SISTEMAS II\Git\solid\PRINCIPIO1\obj\Debug\net7.0\PRINCIPIO1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\D3iic\OneDrive - Universidad Mariano Gálvez\2023\0223 Sexto y Octavo Semestre\ANÁLISIS DE SISTEMAS II\Git\solid\PRINCIPIO1\obj\Debug\net7.0\PRINCIPIO1.AssemblyInfoInputs.cache
+C:\Users\D3iic\OneDrive - Universidad Mariano Gálvez\2023\0223 Sexto y Octavo Semestre\ANÁLISIS DE SISTEMAS II\Git\solid\PRINCIPIO1\obj\Debug\net7.0\PRINCIPIO1.AssemblyInfo.cs
+C:\Users\D3iic\OneDrive - Universidad Mariano Gálvez\2023\0223 Sexto y Octavo Semestre\ANÁLISIS DE SISTEMAS II\Git\solid\PRINCIPIO1\obj\Debug\net7.0\PRINCIPIO1.csproj.CoreCompileInputs.cache
+C:\Users\D3iic\OneDrive - Universidad Mariano Gálvez\2023\0223 Sexto y Octavo Semestre\ANÁLISIS DE SISTEMAS II\Git\solid\PRINCIPIO1\obj\Debug\net7.0\PRINCIPIO1.dll
+C:\Users\D3iic\OneDrive - Universidad Mariano Gálvez\2023\0223 Sexto y Octavo Semestre\ANÁLISIS DE SISTEMAS II\Git\solid\PRINCIPIO1\obj\Debug\net7.0\refint\PRINCIPIO1.dll
+C:\Users\D3iic\OneDrive - Universidad Mariano Gálvez\2023\0223 Sexto y Octavo Semestre\ANÁLISIS DE SISTEMAS II\Git\solid\PRINCIPIO1\obj\Debug\net7.0\PRINCIPIO1.pdb
+C:\Users\D3iic\OneDrive - Universidad Mariano Gálvez\2023\0223 Sexto y Octavo Semestre\ANÁLISIS DE SISTEMAS II\Git\solid\PRINCIPIO1\obj\Debug\net7.0\PRINCIPIO1.genruntimeconfig.cache
+C:\Users\D3iic\OneDrive - Universidad Mariano Gálvez\2023\0223 Sexto y Octavo Semestre\ANÁLISIS DE SISTEMAS II\Git\solid\PRINCIPIO1\obj\Debug\net7.0\ref\PRINCIPIO1.dll
